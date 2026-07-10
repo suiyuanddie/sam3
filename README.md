@@ -30,9 +30,7 @@ pip install flask rich opencv-python
 
 ## 模型权重下载
 
-`sam3.pt` 模型文件（约 3.2GB）未包含在仓库中，请从以下地址下载并放置于项目根目录：
-
-> **下载地址**: [待补充 - 请提供模型下载链接]
+`sam3.pt` 模型文件（约 3.2GB）未包含在仓库中，请自行前往 [Hugging Face](https://huggingface.co) 搜索下载，下载后放置于项目根目录。
 
 下载后目录结构应为：
 ```
