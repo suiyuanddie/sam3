@@ -100,6 +100,4 @@ sam3/
 └── pyproject.toml         # 项目配置
 ```
 
-## License
 
-MIT License
